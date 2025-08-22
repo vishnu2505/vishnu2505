@@ -66,7 +66,7 @@ I'm a **Backend Developer** and **Data Analytics** graduate student at Northeast
 
 ## 📚 Featured Projects
 
-### 🔍 [Fraud Detect X](https://github.com/vishnu2505/fraud-detect-x)
+### 🔍 [Fraud Detect X](https://github.com/vishnu2505/FraudDetectX-main)
 *Real-time Fraud Detection System with 99% Accuracy*
 - 🎯 Architected distributed system processing **250K+ transactions** using microservices
 - ⚡ Engineered scalable pipeline with Kafka & Spark achieving **sub-100ms latency**
