@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnu2505)
 
 ## 🚀 About Me
-
+https://github.com/vishnu2505/vishnu2505/blob/main/README.md
 I'm a **Backend Developer** and **Data Analytics** graduate student at Northeastern University with 3+ years of experience building scalable financial systems and data pipelines. I specialize in developing high-performance backend solutions, implementing distributed systems, and leveraging cloud technologies to solve complex business problems.
 
 🎓 Currently pursuing **MS in Data Analytics** at Northeastern University (Expected: Dec 2026)  
@@ -22,6 +22,7 @@ I'm a **Backend Developer** and **Data Analytics** graduate student at Northeast
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![R3 Corda](https://img.shields.io/badge/R3_Corda-EC1D2A?style=for-the-badge&logo=r3&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-FF6B6B?style=for-the-badge&logo=auth0&logoColor=white)
 ![Kalido](https://img.shields.io/badge/Kalido-4B0082?style=for-the-badge&logoColor=white)
 
 ### Big Data & Analytics
@@ -51,6 +52,8 @@ I'm a **Backend Developer** and **Data Analytics** graduate student at Northeast
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3A52?style=for-the-badge&logoColor=white)
 
 ## 🏆 Professional Highlights
 
