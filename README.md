@@ -5,7 +5,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnu2505)
 
 ## 🚀 About Me
-https://github.com/vishnu2505/vishnu2505/blob/main/README.md
 I'm a **Backend Developer** and **Data Analytics** graduate student at Northeastern University with 3+ years of experience building scalable financial systems and data pipelines. I specialize in developing high-performance backend solutions, implementing distributed systems, and leveraging cloud technologies to solve complex business problems.
 
 🎓 Currently pursuing **MS in Data Analytics** at Northeastern University (Expected: Dec 2026)  
