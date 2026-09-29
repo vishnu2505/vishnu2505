@@ -7,7 +7,7 @@
 ## 🚀 About Me
 I'm a **Backend Developer** and **Data Analytics** graduate student at Northeastern University with 3+ years of experience building scalable financial systems and data pipelines. I specialize in developing high-performance backend solutions, implementing distributed systems, and leveraging cloud technologies to solve complex business problems.
 
-🎓 Currently pursuing **MS in Data Analytics** at Northeastern University (Expected: Dec 2026)  
+🎓 Currently pursuing **MS in Data Analytics** at Northeastern University (May 2026)  
 💼 Previously worked as a **Backend Developer** at Capgemini, focusing on blockchain and financial systems  
 🌟 Passionate about distributed systems, machine learning, and cloud-native architectures
 
